@@ -18,8 +18,7 @@ This repository contains a Python application that allows users to easily downlo
 4. Simply paste the YouTube video URL, select the desired video format, and start the download process.
 
 ## Directory Structure
-- app.py: The main Python script containing the application logic.
-- requirements.txt: Lists the required dependencies for the project.
+- main.py: The main Python script containing the application logic.
 
 ## Contribution
 Contributions, suggestions, and feedback are welcome! Feel free to improve the application or add new features by submitting a pull request.
